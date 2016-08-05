@@ -1,0 +1,26 @@
+_repo: Good-Sense_7319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holbach, Paul Henri Thiry, baron d'
+    alias: D'Holbach, Baron
+    birthdate: 1723
+    deathdate: 1789
+    gutenberg_agent_id: '2420'
+    url: http://www.gutenberg.org/2009/agents/2420
+    wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atheism'
+- !lcc 'BL'
+- GITenberg
+title: Good Sense
+url: http://www.gutenberg.org/ebooks/7319
